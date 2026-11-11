@@ -2,6 +2,7 @@
 
 /*
  * Plugin Name:       CatRmove
+ * Plugin URI:        https://github.com/aoshiftctrl/shft-no-category-base
  * Description:       Entfernt den Kategorie-Praefix aus Kategorie-URLs (/category/aktuelles/ -> /aktuelles/) und leitet alte URLs per 301 um.
  * Version:           1.3.0
  * Requires at least: 6.2
